@@ -41,6 +41,7 @@ ul li a:hover{
 }
 .title {
     border: 2px solid #ffffff;
+    background-color: #fff;
     text-align: center;
     padding: 5px 10px;
 position: absolute;
@@ -52,7 +53,7 @@ transform: translate(-50%-50%);
    
     
     font-family: sans-serif;
-    color: #ffffff;
+    color: #000000;
     font-size: 70px;
 }
 .button{
